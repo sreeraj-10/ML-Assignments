@@ -40,7 +40,7 @@ Each model is evaluated based on accuracy, precision, recall, and F1-score.
 - sklearn
 - seaborn
 
-## 5. Summary
+## 5. Results
 * Logistic Regression, Random Forest Classifier, and Support Vector Machine (SVM) (Accuracy: 97.37%)
 * These models provided the highest accuracy, making them the best choices for this dataset.
 * Decision Tree Classifier (Accuracy: 93.86%)
