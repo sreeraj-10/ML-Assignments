@@ -52,7 +52,7 @@ b) **Hierarchical Clustering**
 - scipy
 - 
 ## How to Use
-1. Clone this repository..
+1. Clone this repository.
 2. Open and run the project notebook.
 
 ## Conclusion
