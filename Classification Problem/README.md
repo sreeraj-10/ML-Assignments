@@ -1,4 +1,4 @@
-# ML Classification Assignment
+# ML Classification Problem
 
 ## Objective
 This project applies supervised learning techniques to classify breast cancer cases using machine learning models.
