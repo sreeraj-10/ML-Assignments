@@ -1,4 +1,4 @@
-# ML Assignment 3 - Regression
+# ML- Regression
 
 ## Overview
 This project performs regression analysis using the California Housing dataset. Several machine learning models are implemented and compared based on their performance.
