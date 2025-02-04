@@ -48,8 +48,7 @@ Each model is evaluated based on accuracy, precision, recall, and F1-score.
 
 ## How to Use
 1. Clone this repository.
-2. Navigate to the project directory.
-3. Open and run the project notebook.
+2. Open and run the project notebook.
 
 ## Conclusion
 This project explores classification techniques and evaluates their performance using standard ML metrics. It serves as a practical guide for implementing classification models in Python.
