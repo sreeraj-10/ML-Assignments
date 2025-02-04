@@ -50,7 +50,7 @@ b) **Hierarchical Clustering**
 - sklearn
 - seaborn
 - scipy
-- 
+
 ## How to Use
 1. Clone this repository.
 2. Open and run the project notebook.
