@@ -44,8 +44,7 @@ The comparison of the models is visualized using a bar plot of their R-squared s
 
 ## How to Use
 1. Clone this repository.
-2. Navigate to the project directory.
-3. Open and run the project notebook.
+2. Open and run the project notebook.
 
 ## Conclusion
 This project demonstrates machine learning classification and regression techniques, evaluating model performance using standard metrics. It serves as a practical guide for implementing predictive models in Python.
