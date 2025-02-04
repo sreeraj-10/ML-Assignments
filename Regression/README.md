@@ -27,4 +27,4 @@ The comparison of the models is visualized using a bar plot of their R-squared s
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/ML_Assignment_3_Regression.git
+   git clone https://github.com/sreeraj-10/ML_Assignment_3_Regression.git
